@@ -2,7 +2,7 @@ import streamlit as st
 import anthropic
 
 st.set_page_config(
-page_title=“Kelvins AI Studio”,
+page_title="Kelvins AI Studio",
 page_icon=”*”,
 layout=“wide”,
 initial_sidebar_state=“collapsed”
